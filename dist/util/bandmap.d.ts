@@ -1,0 +1,36 @@
+export declare const bandmap: {
+    "2190m": number;
+    "630m": number;
+    "560m": number;
+    "160m": number;
+    "80m": number;
+    "60m": number;
+    "40m": number;
+    "30m": number;
+    "20m": number;
+    "17m": number;
+    "15m": number;
+    "12m": number;
+    "10m": number;
+    "8m": number;
+    "6m": number;
+    "5m": number;
+    "4m": number;
+    "2m": number;
+    "1.25m": number;
+    "70cm": number;
+    "33cm": number;
+    "23cm": number;
+    "13cm": number;
+    "9cm": number;
+    "6cm": number;
+    "3cm": number;
+    "1.25cm": number;
+    "6mm": number;
+    "4mm": number;
+    "2.5mm": number;
+    "2mm": number;
+    "1mm": number;
+    submm: number;
+};
+//# sourceMappingURL=bandmap.d.ts.map

@@ -1,0 +1,30 @@
+{
+    "cSpell.words": [
+        "ADIF",
+        "bandmap",
+        "basex",
+        "CALLSIGN",
+        "callsigns",
+        "CQRLOG",
+        "datetime",
+        "datetimes",
+        "eddsa",
+        "GRIDSQUARE",
+        "Hamlog",
+        "hkps",
+        "HQSL",
+        "keyserver",
+        "keyservers",
+        "keytext",
+        "openpgp",
+        "openpgpjs",
+        "PROGRAMID",
+        "PROGRAMVERSION",
+        "RCVD",
+        "recertified",
+        "sigencoder",
+        "testutils",
+        "timespan",
+        "userids"
+    ]
+}
