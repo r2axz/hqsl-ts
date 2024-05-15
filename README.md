@@ -25,7 +25,7 @@ Using this library without a bundler or from a CDN is not currently supported, d
 
 ## Examples
 
-Refer to [API documentation](docs) for full details. Here are some brief examples:
+Refer to [API documentation](https://hamlog-online.github.io/hqsl-ts/) for full details. Here are some brief examples:
 
 ### Creating a card from ADIF
 
