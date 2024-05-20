@@ -1,5 +1,5 @@
 {
-    "name": "hqsl-ts",
+    "name": "hqsl-ts-testpackage",
     "version": "1.0.0",
     "description": "Library for dealing with HQSL data, creation and verification thereof.",
     "type": "module",
